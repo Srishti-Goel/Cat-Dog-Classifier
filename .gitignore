@@ -1,0 +1,10 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/dogs-vs-cats/test1
+/dogs-vs-cats/train
+/dogs-vs-cats/*.zip
+/__pycache__
+/*.pth
+/ResNet.py 
+/*.zip
